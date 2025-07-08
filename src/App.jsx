@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import HbHombres from "./components/HBHombres";
-import HbMujeres from "./components/HbMujeres";
+import HbMujeres from "./components/HBMujeres";
 import MifflinHombres from "./components/MifflinHombres";
 import MifflinMujeres from "./components/MifflinMujeres";
 import Inicio from "./components/Inicio";
